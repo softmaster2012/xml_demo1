@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<faculty name="RPO">
+  <group name="x1">
+    <student name="Pupkin" age="21" rate="7,5" />
+    <student name="Ivanov" age="22" rate="8,5" />
+    <student name="Petrov" age="23" rate="9,5" />
+    <student name="Sidorov" age="24" rate="10,5" />
+  </group>
+  <group name="x2">
+    <student name="Pupkina" age="21" rate="10,5" />
+    <student name="Ivanova" age="22" rate="11,5" />
+    <student name="Petrova" age="23" rate="12,5" />
+    <student name="Sidorova" age="24" rate="10,5" />
+  </group>
+</faculty>

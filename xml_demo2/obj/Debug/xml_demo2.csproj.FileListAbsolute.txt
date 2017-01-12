@@ -1,0 +1,6 @@
+c:\users\comp\documents\visual studio 2015\Projects\xml_demo2\xml_demo2\bin\Debug\xml_demo2.exe.config
+c:\users\comp\documents\visual studio 2015\Projects\xml_demo2\xml_demo2\obj\Debug\xml_demo2.csprojResolveAssemblyReference.cache
+c:\users\comp\documents\visual studio 2015\Projects\xml_demo2\xml_demo2\bin\Debug\xml_demo2.exe
+c:\users\comp\documents\visual studio 2015\Projects\xml_demo2\xml_demo2\bin\Debug\xml_demo2.pdb
+c:\users\comp\documents\visual studio 2015\Projects\xml_demo2\xml_demo2\obj\Debug\xml_demo2.exe
+c:\users\comp\documents\visual studio 2015\Projects\xml_demo2\xml_demo2\obj\Debug\xml_demo2.pdb
